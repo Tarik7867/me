@@ -7,7 +7,7 @@ background: linear-gradient(90deg, rgba(128,139,255,1) 0%, rgba(255,255,255,1) 4
 
 
 .main-content{
-	padding: 105px 90px;
+	padding: 25px 90px;
 	box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 	background-color: white;
 }
@@ -25,7 +25,7 @@ background: linear-gradient(90deg, rgba(128,139,255,1) 0%, rgba(255,255,255,1) 4
 .about-name{
 	font-style: normal;
 	font-weight: 700;
-	font-size: 30px;
+	font-size: 40px;
 	line-height: 55px;
 	margin-bottom: 25px;
 }
@@ -80,8 +80,12 @@ background: linear-gradient(90deg, rgba(128,139,255,1) 0%, rgba(255,255,255,1) 4
 font-weight: 400;
 font-size: 14px;
 line-height: 24px;
-color: #565e6a;
+color: white;
 
+}
+
+#tglink{
+	color: rgb(0, 110, 255);
 }
 
 .skills {
@@ -186,8 +190,8 @@ color: black;
 .period{
 	font-style: normal;
 font-weight: 400;
-font-size: 12px;
-line-height: 15px;
+font-size: 16px;
+line-height: 20px;
 color: #A8A8A8;
 
 }
@@ -231,10 +235,19 @@ margin-bottom: 10px;
 .lishku{
 	font-style: normal;
 font-weight: 700;
-font-size: 14px;
-line-height: 24px;
-color: #595959;
+font-size: 18px;
+line-height: 30px;
+color: black;
 }
+
+
+
+#bolddd{
+	color: #595959;
+}
+
+
+
 
 .work {
 	
